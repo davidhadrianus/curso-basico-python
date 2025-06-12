@@ -8,6 +8,10 @@
 * Estudantes
 * Profissionais que desejam aprender Python
 
+## REQUISITOS:
+
+* Conhecimentos básicos de lógica de programação
+
 ## OBJETIVO:
 
 * Aprender o básico do Python

@@ -1,4 +1,3 @@
-
-print('olá, mundo!')
-print('Olá Angola')
-print('Olá a ti que me assiste agora. Obrigado!')
+# sintaxe simples
+# comunidade ativa e vasta documentação
+# garande numero de bibliotecas
